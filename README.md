@@ -25,9 +25,11 @@ PLAN OF ACTION:
 
 ***How to add to github using terminal
 
+git add yourfile		//use * for all
 git commit -m "your comment"
-git remote add origin https://github.com/drdurczok/3DPrinter.git
+git remote add origin https://github.com/drdurczok/3DPrinter.git			//this can be omitted later
 git push -u origin master
+
 
 
 
