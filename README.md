@@ -23,6 +23,12 @@ PLAN OF ACTION:
 
 ** I am using freecad for the 3d modeling software on ubuntu, it is primitive but free
 
+***How to add to github using terminal
+
+git commit -m "your comment"
+git remote add origin https://github.com/drdurczok/3DPrinter.git
+git push -u origin master
+
 
 
  Cheers  :)
