@@ -28,7 +28,7 @@ PLAN OF ACTION:
 git add yourfile		//use * for all
 git commit -m "your comment"
 git remote add origin https://github.com/drdurczok/3DPrinter.git			//this can be omitted later
-git push -u origin master
+git push
 
 
 
