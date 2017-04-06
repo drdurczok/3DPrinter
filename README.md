@@ -30,6 +30,14 @@ git commit -m "your comment"
 git remote add origin https://github.com/drdurczok/3DPrinter.git			//this can be omitted later
 git push
 
+***Updating FreeCad
+sudo add-apt-repository ppa:freecad-maintainers/freecad-daily
+ or for stable version: ppa:freecad-maintainers/freecad-stable
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install freecad freecad-doc
+
+
 
 
 
