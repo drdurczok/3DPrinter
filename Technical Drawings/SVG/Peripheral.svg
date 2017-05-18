@@ -55,12 +55,12 @@
      id="namedview5391"
      showgrid="false"
      inkscape:zoom="0.61736111"
-     inkscape:cx="713.18825"
-     inkscape:cy="479.38247"
+     inkscape:cx="491.52063"
+     inkscape:cy="675.52334"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5069"
+     inkscape:current-layer="g5237"
      inkscape:snap-smooth-nodes="false" />
   <!-- Working space 20 10 410 287 -->
   <!-- Title block 230 227 410 287 -->
@@ -898,55 +898,37 @@
        id="text5053">7</text>
   </g>
   <g
-     id="g5069">
+     id="g5069"
+     transform="matrix(-1,0,0,-0.71122595,579,217.39853)">
     <line
-       x1="285.000000"
-       y1="132.000000"
-       x2="285.000000"
-       y2="146.841058"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="285"
+       y1="132"
+       x2="285"
+       y2="146.84106"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5057" />
     <line
-       x1="294.000000"
-       y1="132.000000"
-       x2="294.000000"
-       y2="146.841058"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="294"
+       y1="132"
+       x2="294"
+       y2="146.84106"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5059" />
     <line
-       x1="285.000000"
-       y1="145.841058"
-       x2="294.000000"
-       y2="145.841058"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="285"
+       y1="145.84106"
+       x2="294"
+       y2="145.84106"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5061" />
     <polygon
-       points="294.000000,145.841058 297.000000,146.841058 298.000000,145.841058 297.000000,144.841058"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       points="294,145.84106 297,146.84106 298,145.84106 297,144.84106 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
        id="polygon5063" />
     <polygon
-       points="285.000000,145.841058 282.000000,144.841058 281.000000,145.841058 282.000000,146.841058"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       points="285,145.84106 282,144.84106 281,145.84106 282,146.84106 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
        id="polygon5065" />
-    <text
-       x="289.500000"
-       y="143.841058"
-       font-size="3.6"
-       id="text5067"
-       text-anchor="middle"
-       font-family="inherit"
-       fill="rgb(0,0,255)"
-       transform="rotate(0.000000 289.500000,143.841058)">9</text>
-    <text
-       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.99999994"
-       x="369.7283"
-       y="203.42757"
-       font-size="3.6"
-       id="text5067-2">
-      <tspan
-         style="font-size:4.93888903px"
-         id="tspan6609">Ra5</tspan>
-    </text>
   </g>
   <g
      id="g5083">
@@ -1228,17 +1210,6 @@
        y2="129.71428"
        style="stroke:#0000ff;stroke-width:0.49999997"
        id="line5145-63" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.20669128px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 359.37475,211.5292 h -9.57002 l 5.0658,7.90198 7.97501,-14.01997 H 378.112"
-       id="path6592"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.27459085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 381.71765,213.00687 c 1.854,1.92067 5.56205,7.20249 5.56205,7.20249 l 8.03409,-16.80582"
-       id="path6626"
-       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6628"
@@ -1254,14 +1225,36 @@
            style="font-size:96px"
            ry="0" /></flowRegion><flowPara
          id="flowPara6634"
-         style="font-size:12217.1751713px;line-height:1.25">( )</flowPara></flowRoot>    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.71724755;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:17.21393955, 17.21393955;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-size:12217.1751713px;line-height:1.25">( )</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 370.31663,215.64007 h -7.39041 l 3.91205,5.86109 6.15866,-10.39895 h 11.78946"
+       id="path6592"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20781881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 387.57083,216.73609 c 1.43175,1.42461 4.29527,5.34226 4.29527,5.34226 l 6.20429,-12.46528"
+       id="path6626"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.54219013;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:13.01256243, 13.01256243;stroke-dashoffset:0;stroke-opacity:1"
        id="path6652"
-       cx="135.59879"
-       cy="433.0777"
-       rx="10.903518"
-       ry="10.810754"
-       transform="matrix(0.66663302,-0.74538609,0.69035583,0.72347,0,0)" />
+       cx="126.87984"
+       cy="435.61313"
+       rx="8.2369528"
+       ry="8.1775112"
+       transform="matrix(0.68146299,-0.73185257,0.7047956,0.70941043,0,0)" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="370.15533"
+       y="213.69554"
+       font-size="3.6"
+       id="text5067-2"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609">Ra16</tspan>
+    </text>
   </g>
   <g
      id="g5167">
@@ -1507,6 +1500,50 @@
        font-size="3.6"
        id="text5235"
        style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">6x Ø2.8 H7</text>
+    <polygon
+       transform="rotate(-28.970342,165.18316,55.983291)"
+       points="169.27654,52.397701 167.20465,54.78669 170.29556,54.118633 170.64652,52.74866 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon5229-1" />
+    <polygon
+       transform="rotate(-28.970343,162.01185,59.132407)"
+       points="167.20465,54.78669 170.29556,54.118633 170.64652,52.74866 169.27654,52.397701 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon5229-1-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.45846,124.13891 h -7.39041 L 127.9801,130 l 6.15866,-10.39894 h 11.78946"
+       id="path6592-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="136.97986"
+       y="120.39095"
+       font-size="3.6"
+       id="text5067-2-6-68"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-926">Ra3.2</tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.05436,204.06087 v 7.39041 l 5.86109,-3.91205 -10.39895,-6.15866 v -11.78946"
+       id="path6592-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="-191.68063"
+       y="134.86563"
+       font-size="3.6"
+       id="text5067-2-6-4"
+       transform="matrix(0,-1.0203674,0.98003915,0,0,0)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-95">Ra5</tspan>
+    </text>
   </g>
   <g
      id="g5241"
@@ -1780,6 +1817,29 @@
        text-anchor="middle"
        transform="rotate(0.000000 294.500000,106.675648)"
        id="text5331">5</text>
+    <text
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.99999994"
+       x="289.73364"
+       y="113.14386"
+       font-size="3.6"
+       id="text5331-1">9</text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290.98475,139.33866 v -7.39041 l -5.86109,3.91205 10.39894,6.15866 v 11.78946"
+       id="path6592-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="145.17287"
+       y="-302.69144"
+       font-size="3.6"
+       id="text5067-2-6-7"
+       transform="matrix(0,1.0203674,-0.98003915,0,0,0)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-92">Ra5</tspan>
+    </text>
   </g>
   <g
      id="g5347">
@@ -1887,19 +1947,51 @@
        points="290.937541,88.441142 289.518528,85.615119 288.104317,85.617520 288.106717,87.031732"
        style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
        id="polygon5369" />
-    <line
-       x1="301.05688"
-       y1="98.526207"
-       x2="316.95581"
-       y2="98.526207"
-       style="stroke:#0000ff;stroke-width:0.62142944"
-       id="line5371" />
     <text
        x="309.53668"
        y="96.980774"
        font-size="3.6"
        id="text5373"
        style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">3x Ø3 H7</text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 301.05688,98.526205 30.77824,-0.09694"
+       id="path7720"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 328.97465,91.981083 h -7.39041 l 3.91205,5.861089 6.15866,-10.398939 h 11.78946"
+       id="path6592-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="330.55347"
+       y="87.578148"
+       font-size="3.6"
+       id="text5067-2-6-0"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-9">Ra3.2</tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.10488,67.431009 h -7.39041 l 3.91205,5.86109 6.15866,-10.39894 h 11.78946"
+       id="path6592-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="307.16013"
+       y="62.528053"
+       font-size="3.6"
+       id="text5067-2-6-6"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-0">Ra3.2</tspan>
+    </text>
   </g>
   <g
      id="g5379"
@@ -1988,7 +2080,7 @@
          height="51.023621"
          x="251.06862"
          y="291.56357" /></flowRegion><flowPara
-       id="flowPara5467"></flowPara></flowRoot>  <text
+       id="flowPara5467" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
      x="123.74294"
@@ -2109,4 +2201,31 @@
        style="stroke:#0000ff;stroke-width:0.37375736"
        id="line5197-7-6" />
   </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 180.63375,33.796297 h -7.39041 l 3.91205,5.86109 6.15866,-10.39894 h 11.78946"
+     id="path6592-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <text
+     style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+     x="185.17355"
+     y="28.208284"
+     font-size="3.6"
+     id="text5067-2-6"
+     transform="scale(1.0203674,0.98003915)">
+    <tspan
+       style="font-size:3.73790288px;stroke-width:0.75683069"
+       id="tspan6609-2">Ra3.2</tspan>
+  </text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 181.22136,41.00209 h -8.48528 l -6.36396,12.955206"
+     id="path7703"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 172.73608,41.00209 164.45,52.815299"
+     id="path7805"
+     inkscape:connector-curvature="0" />
 </svg>

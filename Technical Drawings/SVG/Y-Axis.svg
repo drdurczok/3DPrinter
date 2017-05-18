@@ -45,12 +45,12 @@
      id="namedview5766"
      showgrid="false"
      inkscape:zoom="0.52206648"
-     inkscape:cx="420.5475"
-     inkscape:cy="794.60801"
+     inkscape:cx="714.32718"
+     inkscape:cy="558.04749"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5764" />
+     inkscape:current-layer="g5762" />
   <!-- Working space 20 10 410 287 -->
   <!-- Title block 230 227 410 287 -->
   <g
@@ -2816,93 +2816,71 @@
        style="stroke:rgb(0,0,0);stroke-width:0.30"
        id="line5712" />
     <text
-       x="1.000000"
-       y="6.000000"
-       font-family="inherit"
+       x="1"
+       y="6"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5714">1</text>
+       id="text5714"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">2</text>
     <text
-       x="17.000000"
-       y="6.000000"
-       font-family="inherit"
+       x="17"
+       y="6"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5716">Rod Clamp</text>
+       id="text5716"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">Linear Bearing Mount</text>
     <text
-       x="71.000000"
-       y="6.000000"
-       font-family="inherit"
+       x="71"
+       y="6"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5718">17.02.01</text>
+       id="text5718"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">17.02.02</text>
     <text
-       x="101.000000"
-       y="6.000000"
-       font-family="inherit"
+       x="101"
+       y="6"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5720">8</text>
+       id="text5720"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">4</text>
     <text
-       x="1.000000"
-       y="13.000000"
-       font-family="inherit"
+       x="1"
+       y="13"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5722">2</text>
+       id="text5722"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">3</text>
     <text
-       x="17.000000"
-       y="13.000000"
-       font-family="inherit"
+       x="17"
+       y="13"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5724">Linear Bearing Mount</text>
+       id="text5724"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">Belt Clamp</text>
     <text
-       x="71.000000"
-       y="13.000000"
-       font-family="inherit"
+       x="71"
+       y="13"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5726">17.02.02</text>
+       id="text5726"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">17.02.03</text>
     <text
-       x="101.000000"
-       y="13.000000"
-       font-family="inherit"
+       x="101"
+       y="13"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5728">4</text>
+       id="text5728"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">1</text>
     <text
-       x="1.000000"
-       y="20.000000"
-       font-family="inherit"
+       x="1"
+       y="20"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5730">3</text>
+       id="text5730"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">4</text>
     <text
-       x="17.000000"
-       y="20.000000"
-       font-family="inherit"
+       x="17"
+       y="20"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5732">Belt Clamp</text>
+       id="text5732"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">Motor Mount</text>
     <text
-       x="71.000000"
-       y="20.000000"
-       font-family="inherit"
+       x="71"
+       y="20"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5734">17.02.03</text>
+       id="text5734"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">17.02.04</text>
     <text
        x="101.000000"
        y="20.000000"
@@ -2912,69 +2890,53 @@
        text-anchor="inherit"
        id="text5736">1</text>
     <text
-       x="1.000000"
-       y="27.000000"
-       font-family="inherit"
+       x="1"
+       y="27"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5738">4</text>
+       id="text5738"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">5</text>
     <text
-       x="17.000000"
-       y="27.000000"
-       font-family="inherit"
+       x="17"
+       y="27"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5740">Motor Mount</text>
+       id="text5740"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">Bed Leveling Knob</text>
     <text
-       x="71.000000"
-       y="27.000000"
-       font-family="inherit"
+       x="71"
+       y="27"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5742">17.02.04</text>
+       id="text5742"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">17.02.05</text>
     <text
-       x="101.000000"
-       y="27.000000"
-       font-family="inherit"
+       x="101"
+       y="27"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5744">1</text>
+       id="text5744"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">4</text>
     <text
-       x="1.000000"
-       y="34.000000"
-       font-family="inherit"
+       x="1"
+       y="34"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5746">5</text>
+       id="text5746"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">6</text>
     <text
-       x="17.000000"
-       y="34.000000"
-       font-family="inherit"
+       x="17"
+       y="34"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5748">Bed Leveling Knob</text>
+       id="text5748"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">Y-Axis Base</text>
     <text
-       x="71.000000"
-       y="34.000000"
-       font-family="inherit"
+       x="71"
+       y="34"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5750">17.02.05</text>
+       id="text5750"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">17.02.06</text>
     <text
-       x="101.000000"
-       y="34.000000"
-       font-family="inherit"
+       x="101"
+       y="34"
        font-size="5"
-       fill="rgb(0,0,0)"
-       text-anchor="inherit"
-       id="text5752">4</text>
+       id="text5752"
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000">1</text>
     <text
        x="1.000000"
        y="41.000000"
@@ -3007,5 +2969,93 @@
        fill="rgb(0,0,0)"
        text-anchor="inherit"
        id="text5760">Qty</text>
+    <line
+       x1="-1.6927719e-05"
+       y1="-7"
+       x2="120"
+       y2="-7"
+       style="stroke:#000000;stroke-width:0.30000001"
+       id="line5690-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0 V -7.0000018"
+       id="path1978"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16,0 V -7"
+       id="path1978-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70,0 V -7"
+       id="path1978-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,0 V -7"
+       id="path1978-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 120,0 V -7"
+       id="path1978-3"
+       inkscape:connector-curvature="0" />
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="0.71894723"
+       y="-1.5192769"
+       font-size="5"
+       id="text5714-7">1</text>
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="16.963774"
+       y="-1.835692"
+       font-size="5"
+       id="text5716-0">Rod Clamp</text>
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="70.735779"
+       y="-1.5217183"
+       font-size="5"
+       id="text5718-9">17.02.01</text>
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="100.98383"
+       y="-1.5217183"
+       font-size="5"
+       id="text5720-3">8</text>
+  </g>
+  <g
+     transform="translate(37.115855,-9.7822648)"
+     id="g5660-5">
+    <line
+       x1="144.76973"
+       y1="197.51006"
+       x2="175.38377"
+       y2="147.54515"
+       style="stroke:#0000ff;stroke-width:0.6389336"
+       id="line5654-6" />
+    <polygon
+       points="173.34991,150.98948 174.71946,150.63686 175.38378,147.54515 172.99729,149.61993 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon5656-2" />
+    <line
+       x1="144.76973"
+       y1="197.51006"
+       x2="131.45381"
+       y2="197.51006"
+       style="stroke:#0000ff;stroke-width:0.5"
+       id="line5658-9" />
+  </g>
+  <g
+     transform="translate(28.898623,0.30015931)"
+     id="g5688-1">
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000"
+       x="145.2675"
+       y="184.14018"
+       font-size="5"
+       id="text5686-2">6</text>
   </g>
 </svg>
