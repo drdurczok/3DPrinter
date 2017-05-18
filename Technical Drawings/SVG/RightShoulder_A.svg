@@ -44,13 +44,13 @@
      inkscape:window-height="744"
      id="namedview5690"
      showgrid="false"
-     inkscape:zoom="0.52206648"
-     inkscape:cx="503.43436"
-     inkscape:cy="646.32151"
+     inkscape:zoom="1.044133"
+     inkscape:cx="457.09161"
+     inkscape:cy="758.09758"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5688" />
+     inkscape:current-layer="g5658" />
   <!-- Working space 20 10 410 287 -->
   <!-- Title block 230 227 410 287 -->
   <g
@@ -2079,6 +2079,11 @@
        text-anchor="middle"
        transform="rotate(-90.000000 26.963253,107.500000)"
        id="text5524">65</text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.89911,121.71502 -41.232352,0.0272"
+       id="path1898"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="g5540">
@@ -2247,11 +2252,11 @@
   <g
      id="g5596">
     <line
-       x1="66.490101"
-       y1="94.509899"
-       x2="66.490101"
-       y2="148.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="66.490105"
+       y1="94.509895"
+       x2="66.490105"
+       y2="114.03405"
+       style="stroke:#0000ff;stroke-width:0.30033386"
        id="line5584" />
     <line
        x1="63.500000"
@@ -2261,218 +2266,177 @@
        style="stroke:rgb(0,0,255);stroke-width:0.50"
        id="line5586" />
     <line
-       x1="66.490101"
-       y1="147.623155"
-       x2="63.500000"
-       y2="147.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="66.400513"
+       y1="112.51945"
+       x2="63.410408"
+       y2="112.51945"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5588" />
-    <polygon
-       points="63.500000,147.623155 60.500000,146.623155 59.500000,147.623155 60.500000,148.623155"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5590" />
-    <polygon
-       points="66.490101,147.623155 69.490101,148.623155 70.490101,147.623155 69.490101,146.623155"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5592" />
     <text
-       x="64.995051"
-       y="145.623155"
-       font-family="inherit"
+       x="60.344257"
+       y="110.51945"
        font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="middle"
-       transform="rotate(0.000000 64.995051,145.623155)"
-       id="text5594">3</text>
+       id="text5594"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">3.5</text>
+    <polygon
+       points="60.5,148.62315 63.5,147.62315 60.5,146.62315 59.5,147.62315 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon5590-5"
+       transform="translate(41.399109,-25.908131)" />
+    <line
+       x1="63.410408"
+       y1="112.51945"
+       x2="60.4203"
+       y2="112.51945"
+       style="stroke:#0000ff;stroke-width:0.49999997"
+       id="line5588-6" />
+    <line
+       x1="60.4203"
+       y1="112.51945"
+       x2="57.430195"
+       y2="112.51945"
+       style="stroke:#0000ff;stroke-width:0.49999997"
+       id="line5588-2" />
   </g>
   <g
      id="g5606">
     <line
-       x1="66.490101"
-       y1="94.509899"
-       x2="66.490101"
-       y2="148.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="66.490105"
+       y1="94.509895"
+       x2="66.490105"
+       y2="114.03405"
+       style="stroke:#0000ff;stroke-width:0.30033383"
        id="line5598" />
     <line
-       x1="73.999951"
-       y1="87.000051"
-       x2="73.999951"
-       y2="148.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="73.999954"
+       y1="87.000053"
+       x2="73.999954"
+       y2="113.65395"
+       style="stroke:#0000ff;stroke-width:0.3288354"
        id="line5600" />
     <line
-       x1="66.490101"
-       y1="147.623155"
-       x2="73.999951"
-       y2="147.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="66.400513"
+       y1="112.51945"
+       x2="73.910362"
+       y2="112.51945"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5602" />
     <text
-       x="70.245026"
-       y="145.623155"
-       font-family="inherit"
+       x="70.155434"
+       y="110.51945"
        font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="middle"
-       transform="rotate(0.000000 70.245026,145.623155)"
-       id="text5604">7.5</text>
+       id="text5604"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">7.5</text>
   </g>
   <g
      id="g5620">
     <line
-       x1="73.999951"
-       y1="87.000051"
-       x2="73.999951"
-       y2="148.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="73.999954"
+       y1="87.000053"
+       x2="73.999954"
+       y2="109.36189"
+       style="stroke:#0000ff;stroke-width:0.30115947"
        id="line5608" />
     <line
-       x1="84.000000"
-       y1="77.000000"
-       x2="84.000000"
-       y2="148.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="84"
+       y1="77"
+       x2="84"
+       y2="113.87781"
+       style="stroke:#0000ff;stroke-width:0.3587386"
        id="line5610" />
     <line
-       x1="73.999951"
-       y1="147.638901"
-       x2="84.000000"
-       y2="147.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="73.910362"
+       y1="112.51945"
+       x2="83.910408"
+       y2="112.51945"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5612" />
-    <polygon
-       points="84.000000,147.638901 81.000000,146.638901 80.000000,147.638901 81.000000,148.638901"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5614" />
-    <polygon
-       points="73.999951,147.638901 76.999951,148.638901 77.999951,147.638901 76.999951,146.638901"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5616" />
     <text
-       x="78.999975"
-       y="145.638901"
-       font-family="inherit"
+       x="78.910385"
+       y="110.51945"
        font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="middle"
-       transform="rotate(0.000000 78.999975,145.638901)"
-       id="text5618">10</text>
+       id="text5618"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">10</text>
+    <polygon
+       points="77.999951,147.6389 76.999951,146.6389 73.999951,147.6389 76.999951,148.6389 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon5616-3"
+       transform="translate(-10.333193,-25.89668)" />
+    <text
+       x="85.391937"
+       y="120.02547"
+       font-size="3.6"
+       id="text5618-5"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.99999994">42</text>
   </g>
   <g
-     id="g5634">
+     id="g5648"
+     transform="translate(3.675293e-6,1.3182812e-6)">
     <line
-       x1="84.000000"
-       y1="77.000000"
-       x2="84.000000"
-       y2="148.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
-       id="line5622" />
-    <line
-       x1="94.000051"
-       y1="87.000049"
-       x2="94.000051"
-       y2="148.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
-       id="line5624" />
-    <line
-       x1="84.000000"
-       y1="147.638901"
-       x2="94.000051"
-       y2="147.638901"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
-       id="line5626" />
-    <polygon
-       points="94.000051,147.638901 91.000051,146.638901 90.000051,147.638901 91.000051,148.638901"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5628" />
-    <polygon
-       points="84.000000,147.638901 87.000000,148.638901 88.000000,147.638901 87.000000,146.638901"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5630" />
-    <text
-       x="89.000025"
-       y="145.638901"
-       font-family="inherit"
-       font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="middle"
-       transform="rotate(0.000000 89.000025,145.638901)"
-       id="text5632">10</text>
-  </g>
-  <g
-     id="g5648">
-    <line
-       x1="94.000051"
-       y1="87.000049"
-       x2="94.000051"
-       y2="148.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="94.000053"
+       y1="87.000046"
+       x2="94.000053"
+       y2="113.78701"
+       style="stroke:#0000ff;stroke-width:0.32965526"
        id="line5636" />
     <line
-       x1="101.509899"
-       y1="94.509899"
-       x2="101.509899"
-       y2="148.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="101.5099"
+       y1="94.509895"
+       x2="101.5099"
+       y2="113.96619"
+       style="stroke:#0000ff;stroke-width:0.29981151"
        id="line5638" />
     <line
-       x1="94.000051"
-       y1="147.623155"
-       x2="101.509899"
-       y2="147.623155"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="93.820869"
+       y1="112.41411"
+       x2="101.33071"
+       y2="112.41411"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5640" />
-    <polygon
-       points="101.509899,147.623155 104.509899,148.623155 105.509899,147.623155 104.509899,146.623155"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5642" />
-    <polygon
-       points="94.000051,147.623155 91.000051,146.623155 90.000051,147.623155 91.000051,148.623155"
-       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
-       id="polygon5644" />
     <text
-       x="97.754975"
-       y="145.623155"
-       font-family="inherit"
+       x="97.57579"
+       y="110.41411"
        font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="middle"
-       transform="rotate(0.000000 97.754975,145.623155)"
-       id="text5646">7.5</text>
+       id="text5646"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">7.5</text>
   </g>
   <g
-     id="g5658">
+     id="g5658"
+     transform="translate(3.675293e-6,0.01043833)">
     <line
-       x1="101.509899"
-       y1="94.509899"
-       x2="101.509899"
-       y2="148.612723"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="101.5099"
+       y1="94.509895"
+       x2="101.5099"
+       y2="113.35037"
+       style="stroke:#0000ff;stroke-width:0.29505703"
        id="line5650" />
     <line
-       x1="105.000000"
-       y1="98.000000"
-       x2="105.000000"
-       y2="148.612723"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="105"
+       y1="98"
+       x2="105"
+       y2="122.69356"
+       style="stroke:#0000ff;stroke-width:0.34924641"
        id="line5652" />
     <line
-       x1="101.509899"
-       y1="147.612723"
-       x2="105.000000"
-       y2="147.612723"
-       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       x1="101.33071"
+       y1="112.40367"
+       x2="104.82081"
+       y2="112.40367"
+       style="stroke:#0000ff;stroke-width:0.5"
        id="line5654" />
     <text
-       x="105.720196"
-       y="146.713742"
-       font-family="inherit"
+       x="101.69313"
+       y="110.39251"
        font-size="3.6"
-       fill="rgb(0,0,255)"
-       text-anchor="inherit"
-       transform="rotate(0.000000 105.720196,146.713742)"
-       id="text5656">3.5</text>
+       id="text5656"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:inherit;fill:#0000ff">3.5</text>
+    <line
+       x1="63.540054"
+       y1="97.95031"
+       x2="63.540054"
+       y2="122.64387"
+       style="stroke:#0000ff;stroke-width:0.34924641"
+       id="line5652-3" />
   </g>
   <g
      id="g5672">
@@ -2549,12 +2513,12 @@
     <text
        x="112.671500"
        y="160.928923"
-       font-family="inherit"
        font-size="3.6"
-       fill="rgb(0,0,255)"
+       id="text5684"
        text-anchor="middle"
-       transform="rotate(0.000000 112.671500,160.928923)"
-       id="text5684">98</text>
+       font-family="inherit"
+       fill="rgb(0,0,255)"
+       transform="rotate(0.000000 112.671500,160.928923)">98</text>
   </g>
   <line
      x1="157.08034"
