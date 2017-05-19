@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,13 +42,13 @@
      inkscape:window-height="744"
      id="namedview7003"
      showgrid="false"
-     inkscape:zoom="0.36915675"
-     inkscape:cx="218.62637"
-     inkscape:cy="651.01489"
+     inkscape:zoom="0.52206648"
+     inkscape:cx="480.12552"
+     inkscape:cy="665.25074"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6943" />
+     inkscape:current-layer="svg7001" />
   <!-- Working space 20 10 410 287 -->
   <!-- Title block 230 227 410 287 -->
   <g
@@ -900,6 +901,80 @@
        id="polygon6937-6"
        inkscape:transform-center-x="-1.6167601"
        inkscape:transform-center-y="2.2624368" />
+    <g
+       transform="translate(39.037895,-19.880517)"
+       id="g1968">
+      <line
+         x1="32.837864"
+         y1="77.524445"
+         x2="32.837864"
+         y2="95.805321"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1962" />
+      <polygon
+         points="33.837865,92.805317 32.837865,91.805317 31.837865,92.805317 32.837865,95.805317 "
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+         id="polygon1964" />
+      <line
+         x1="32.837864"
+         y1="77.524445"
+         x2="32.837864"
+         y2="77.524445"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1966" />
+    </g>
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="64.428001"
+       y="66.445831"
+       font-size="5"
+       id="text1974">A</text>
+    <g
+       transform="translate(-128.65186,-20.051785)"
+       id="g1960">
+      <line
+         x1="255.93222"
+         y1="79.555649"
+         x2="255.93222"
+         y2="96.143852"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1954" />
+      <polygon
+         points="256.93223,93.143852 255.93223,92.143852 254.93223,93.143852 255.93223,96.143852 "
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+         id="polygon1956" />
+      <line
+         x1="255.93222"
+         y1="79.555649"
+         x2="255.93222"
+         y2="79.555649"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1958" />
+    </g>
+    <g
+       transform="translate(-128.65186,-20.051785)"
+       id="g1972">
+      <text
+         style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000"
+         x="259.99463"
+         y="89.034622"
+         font-size="5"
+         id="text1970">A</text>
+    </g>
+    <g
+       transform="translate(-42.473518,-0.08491911)"
+       id="g1980">
+      <text
+         x="112.48237"
+         y="254.16104"
+         font-size="15"
+         id="text1978"
+         style="font-size:15px;font-family:inherit;text-anchor:inherit;fill:#000000">
+        <tspan
+           style="font-size:11.28888893px"
+           id="tspan2356">Section A-A</tspan>
+      </text>
+    </g>
   </g>
   <g
      id="g6957">
@@ -1115,4 +1190,30 @@
        style="stroke-width:0.99999994"
        id="tspan6660-5">peripheral.</tspan>
   </text>
+  <g
+     style="stroke:#0000ff;stroke-width:0.08"
+     transform="matrix(3.0952833,0,0,3.9999999,239.33437,1.9084397)"
+     id="g6917-3">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h 0.75 m 0.5,0 h 1.5 m 0.5,0 H 24 m 0.5,0 H 26 m 0.5,0 h 0.75 m 0.5,0 h 1.5 m 0.5,0 h 0.75 m 0.5,0 h 1.5"
+       id="path6913-6" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h -0.75 m -0.5,0 h -1.5"
+       id="path6915-7" />
+  </g>
+  <g
+     style="stroke:#0000ff;stroke-width:0.08"
+     transform="matrix(0.00609447,6.4135097,-4.0000804,-0.02293612,391.9044,-81.141603)"
+     id="g6917-5">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h 0.75 m 0.5,0 h 1.5 m 0.5,0 H 24 m 0.5,0 H 26 m 0.5,0 h 0.75 m 0.5,0 h 1.5 m 0.5,0 h 0.75 m 0.5,0 h 1.5"
+       id="path6913-3" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h -0.75 m -0.5,0 h -1.5"
+       id="path6915-5" />
+  </g>
 </svg>
