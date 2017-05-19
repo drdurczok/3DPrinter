@@ -2,11 +2,7 @@ This is where we will construct our own 3D Printer.
 
 We can keep eachother updated in this readme file. 
 
-Most of my 3D models are at home, so I will update those later. For now I only 
-uploaded some simple ideas I had for the printing bed(far from complete). 
-
-In the overview file I will try to write up all the necessary knowledge that we need
-and get you up to speed.
+In the overview file I will try to write up all the necessary knowledge that we need and get you up to speed.
 
 PLAN OF ACTION:
 
@@ -18,17 +14,17 @@ PLAN OF ACTION:
 
 [done]		Design x carrage and extruder mount
 
-[1/2]		Design z carrage
+[done]		Design z carrage
 
-[]			Design printing bed
+[1/2]		Design printing bed
 
-[]			Design y carrage
+[done]		Design y carrage
 
-[]			Design frame
+[1/2]		Design frame
 
-[]			Bills of materials
+[]		Bills of materials
 
-[]			Programming
+[]		Programming
 
 
 ** I am using freecad for the 3d modeling software on ubuntu, it is primitive but free

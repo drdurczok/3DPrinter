@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   id="svg7001"
+   sodipodi:docname="Belt Mount.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata7007">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7005" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1321"
+     inkscape:window-height="744"
+     id="namedview7003"
+     showgrid="false"
+     inkscape:zoom="0.52206648"
+     inkscape:cx="480.12552"
+     inkscape:cy="665.25074"
+     inkscape:window-x="45"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7001" />
+  <!-- Working space 20 10 410 287 -->
+  <!-- Title block 230 227 410 287 -->
+  <g
+     id="g6712">
+    <rect
+       id="drawing-border"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4"
+       width="390"
+       height="277"
+       x="20"
+       y="10" />
+    <!-- width-30, height-20 -->
+    <g
+       transform="translate(210,0)"
+       id="g6710">
+      <!-- A4 Portrait based for other formats width-210, height-297 -->
+      <!--        page       rect   translation
+			               w    h    rw   rh   tx   ty
+			        A4-P  210  297  180  277    0    0
+			        A3-L  420  297  390  277  210    0
+			        A2-L  594  420  564  400  384  123
+			        A1-L  841  594  811  574  631  297
+			        A0-L 1189  841 1159  821  979  544
+			-->
+      <g
+         id="titleblock-structure"
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4">
+        <rect
+           width="180"
+           height="60"
+           x="20"
+           y="227"
+           id="rect6604" />
+        <path
+           d="m 20,239 h 180"
+           id="path6606" />
+        <path
+           d="m 80,227 v 12"
+           id="path6608" />
+        <path
+           d="m 140,239 v 48"
+           id="path6610" />
+        <path
+           d="m 160,239 v 12"
+           id="path6612" />
+        <path
+           d="m 180,239 v 12"
+           id="path6614" />
+        <path
+           d="m 140,251 h 60"
+           id="path6616" />
+        <path
+           d="m 140,275 h 60"
+           id="path6618" />
+        <path
+           d="m 180,275 v 12"
+           id="path6620" />
+      </g>
+      <g
+         id="titleblock-text-non-editable"
+         style="font-size:3px;text-anchor:start;fill:#000000;font-family:osifont"
+         xml:space="preserve"><text
+           x="21"
+           y="230"
+           id="text6623">Created by:</text>
+<text
+           x="81"
+           y="230"
+           id="text6625">Title:</text>
+<text
+           x="21"
+           y="242"
+           id="text6627">Supplementary information:</text>
+<text
+           x="141"
+           y="242"
+           id="text6629">Size:</text>
+<text
+           x="161"
+           y="242"
+           id="text6631">Sheet:</text>
+<text
+           x="181"
+           y="242"
+           id="text6633">Scale:</text>
+<text
+           x="141"
+           y="254"
+           id="text6635">Part number:</text>
+<text
+           x="141"
+           y="266"
+           id="text6637">Drawing number:</text>
+<text
+           x="141"
+           y="278"
+           id="text6639">Date:</text>
+<text
+           x="181"
+           y="278"
+           id="text6641">Revision:</text>
+</g>      <g
+         id="titleblock-text-editable"
+         style="font-size:5px;text-anchor:middle;fill:#000000;font-family:osifont"
+         xml:space="preserve"><text
+           freecad:editable="AUTHOR NAME"
+           x="50"
+           y="236"
+           id="text6646"><tspan
+             id="tspan6644">B.D.G</tspan></text>
+<text
+           freecad:editable="DRAWING TITLE"
+           x="140"
+           y="236"
+           id="text6650"><tspan
+             id="tspan6648">BELT MOUNT</tspan></text>
+<text
+           freecad:editable="SI-1"
+           x="80"
+           y="248"
+           id="text6654"><tspan
+             id="tspan6652" /></text>
+<text
+           freecad:editable="SI-2"
+           x="80"
+           y="255"
+           id="text6658"><tspan
+             id="tspan6656" /></text>
+<text
+           freecad:editable="FreeCAD DRAWING"
+           x="81.254265"
+           y="259.13312"
+           id="text6662"><tspan
+             id="tspan6660">Clamps the belt with the belt mount spacer.</tspan></text>
+<text
+           freecad:editable="SI-4"
+           x="80"
+           y="269"
+           id="text6666"><tspan
+             id="tspan6664" /></text>
+<text
+           freecad:editable="SI-5"
+           x="80"
+           y="276"
+           id="text6670"><tspan
+             id="tspan6668" /></text>
+<text
+           freecad:editable="SI-6"
+           x="80"
+           y="283"
+           id="text6674"><tspan
+             id="tspan6672" /></text>
+<text
+           freecad:editable="FC-SI"
+           x="150"
+           y="248"
+           id="text6678"><tspan
+             id="tspan6676">A3</tspan></text>
+<text
+           freecad:editable="FC-SH"
+           x="170"
+           y="248"
+           id="text6682"><tspan
+             id="tspan6680">1/1</tspan></text>
+<text
+           freecad:editable="FC-SC"
+           x="190"
+           y="248"
+           id="text6686"><tspan
+             id="tspan6684">2:1</tspan></text>
+<text
+           freecad:editable="PN"
+           x="170"
+           y="260"
+           id="text6690"><tspan
+             id="tspan6688">01.01</tspan></text>
+<text
+           freecad:editable="DN"
+           x="170"
+           y="272"
+           id="text6694"><tspan
+             id="tspan6692">17.01.01</tspan></text>
+<text
+           freecad:editable="FC-DATE"
+           x="160"
+           y="284"
+           id="text6698"><tspan
+             id="tspan6696">1/05/2017</tspan></text>
+<text
+           freecad:editable="FC-REV"
+           x="190"
+           y="284"
+           id="text6702"><tspan
+             id="tspan6700">REV A</tspan></text>
+</g>      <!-- Set display:none to hide FreeCAD Logo -->
+      <g
+         style="display:inline"
+         id="freecad-logo"
+         transform="translate(128.5,276)"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="0.35"
+         fill="none">
+        <path
+           d="m0.1524 0.15254v8.8549h1.9744v-3.4652h1.396v-1.3661h-1.396v-1.4745h3.4391v-2.5441l-5.4135-0.005z"
+           id="path6705" />
+        <path
+           d="m7.7927 3.4504-0.50715-0.176-0.48387-1.2366-0.76115 0.04-0.34718 1.2787-0.4859 0.23269-1.2119-0.53015-0.51188 0.56882 0.65892 1.1485-0.18006 0.50567-1.2366 0.48387 0.044064 0.76263 1.2787 0.34718 0.23269 0.4859-0.53421 1.2104 0.56882 0.51188 1.1485-0.65891 0.50973 0.18155 0.4798 1.2351 0.7667-0.04258 0.34311-1.2802 0.4859-0.23269 1.2145 0.5357 0.51188-0.56882-0.65891-1.1485 0.17748-0.51122 1.2351-0.4798-0.03851-0.76521-1.2802-0.34311-0.23269-0.4859 0.53163-1.216-0.56881-0.51184zm-0.5715 1.2244 0.23576 0.13679 0.20426 0.18519 0.16353 0.22101 0.11763 0.24572 0.06916 0.26489 0.01146 0.27146-0.03921 0.27139-0.08948 0.25764-0.14234 0.23834-0.17964 0.20167-0.22101 0.16353-0.24572 0.11763-0.26489 0.06916-0.27295 0.01553-0.2719-0.04-0.2576-0.089-0.2383-0.143-0.2002-0.183-0.165-0.217-0.1177-0.246-0.0676-0.269-0.0156-0.273 0.039206-0.2714 0.089484-0.25764 0.14085-0.23427 0.18113-0.20574 0.22101-0.16352 0.24572-0.11763 0.26895-0.06768 0.27147-0.01146 0.27139 0.03921 0.25764 0.08948z"
+           id="path6707" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="View"
+     transform="rotate(0,100,100) translate(100,100) scale(4,4)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.0875"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g6752">
+      <path
+         d="M5 12 A5 5 0 1 1 -5 12"
+         id="path6714" />
+      <path
+         id="2"
+         d=" M 5 12 L 5 5.82645e-013 " />
+      <path
+         id="3"
+         d=" M -5 12 L -5 4.83169e-013 " />
+      <path
+         d="M-5 5.15756e-013 A5 5 0 1 1 5 5.1836e-013"
+         id="path6718" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1.5"
+         id="circle6720" />
+      <path
+         id="6"
+         d=" M -1.82679 10 L -1.82679 2 " />
+      <path
+         id="7"
+         d=" M -1.82679 10 L -0.173205 10 " />
+      <path
+         id="8"
+         d=" M -0.173205 2 L -0.173205 10 " />
+      <path
+         id="9"
+         d=" M -1.82679 2 L -0.173205 2 " />
+      <path
+         id="10"
+         d=" M 0.173205 10 L 1.82679 10 " />
+      <path
+         id="11"
+         d=" M 1.82679 2 L 1.82679 10 " />
+      <path
+         id="12"
+         d=" M 0.173205 2 L 1.82679 2 " />
+      <path
+         id="13"
+         d=" M 0.173205 10 L 0.173205 2 " />
+      <path
+         id="14"
+         d=" M -3.82679 10 L -2.17321 10 " />
+      <path
+         id="15"
+         d=" M -2.17321 2 L -2.17321 10 " />
+      <path
+         id="16"
+         d=" M -3.82679 2 L -2.17321 2 " />
+      <path
+         id="17"
+         d=" M -3.82679 10 L -3.82679 2 " />
+      <path
+         id="18"
+         d=" M 2.17321 2 L 3.82679 2 " />
+      <path
+         id="19"
+         d=" M 2.17321 10 L 2.17321 2 " />
+      <path
+         id="20"
+         d=" M 2.17321 10 L 3.82679 10 " />
+      <path
+         id="21"
+         d=" M 3.82679 2 L 3.82679 10 " />
+      <circle
+         cx="-1.73472e-018"
+         cy="12"
+         r="1.5"
+         id="circle6738" />
+      <path
+         id="23"
+         d=" M -1 10 L -1 2 " />
+      <path
+         id="24"
+         d=" M -1.82679 2 L -1 2 " />
+      <path
+         id="25"
+         d=" M -1 2 L -0.173205 2 " />
+      <path
+         id="26"
+         d=" M 1 2 L 1.82679 2 " />
+      <path
+         id="27"
+         d=" M 1 10 L 1 2 " />
+      <path
+         id="28"
+         d=" M 0.173205 2 L 1 2 " />
+      <path
+         id="29"
+         d=" M -3 2 L -2.17321 2 " />
+      <path
+         id="30"
+         d=" M -3 10 L -3 2 " />
+      <path
+         id="31"
+         d=" M -3.82679 2 L -3 2 " />
+      <path
+         id="32"
+         d=" M 2.17321 2 L 3 2 " />
+      <path
+         id="33"
+         d=" M 3 2 L 3.82679 2 " />
+      <path
+         id="34"
+         d=" M 3 10 L 3 2 " />
+    </g>
+  </g>
+  <g
+     id="side"
+     transform="rotate(0,300,54) translate(300,54) scale(4,4)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.0875"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g6758">
+      <path
+         id="1"
+         d=" M 8 -17 L 0 -17 " />
+      <path
+         id="path6756"
+         d=" M 8 5 L 0 5 " />
+    </g>
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.0875"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g6773">
+      <path
+         d="M0,-12 L0,-12.5598  L0,-13.1126  L0,-13.6514  L0,-14.1694  L0,-14.6602  L0,-15.1174  L0,-15.5355  L0,-15.9092  L0,-16.2336  L0,-16.5048  L0,-16.7194  L0,-16.8746  L0,-16.9686  L0,-17 "
+         id="path6760" />
+      <path
+         d="M8,-12 L8,-12.5598  L8,-13.1126  L8,-13.6514  L8,-14.1694  L8,-14.6602  L8,-15.1174  L8,-15.5355  L8,-15.9092  L8,-16.2336  L8,-16.5048  L8,-16.7194  L8,-16.8746  L8,-16.9686  L8,-17 "
+         id="path6762" />
+      <path
+         id="path6764"
+         d=" M 0 -12 L 0 -5.82645e-013 " />
+      <path
+         id="4"
+         d=" M 8 -12 L 8 -5.82645e-013 " />
+      <circle
+         cx="4"
+         cy="-6"
+         r="1.4"
+         id="circle6767" />
+      <path
+         d="M0,5 L0,4.96856  L0,4.87464  L0,4.71942  L0,4.50484  L0,4.23362  L0,3.90916  L0,3.53553  L0,3.11745  L0,2.66016  L0,2.16942  L0,1.6514  L0,1.1126  L0,0.559822  L0,-5.1836e-013 "
+         id="path6769" />
+      <path
+         d="M8,5 L8,4.96856  L8,4.87464  L8,4.71942  L8,4.50484  L8,4.23362  L8,3.90916  L8,3.53553  L8,3.11745  L8,2.66016  L8,2.16942  L8,1.6514  L8,1.1126  L8,0.559822  L8,-5.1836e-013 "
+         id="path6771" />
+    </g>
+  </g>
+  <g
+     id="cros"
+     transform="rotate(-90,100,240) translate(100,240) scale(4,4)">
+    <g
+       stroke="rgb(0, 0, 0)"
+       stroke-width="0.0875"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       fill="none"
+       transform="scale(1,-1)"
+       id="g6840">
+      <path
+         id="path6776"
+         d=" M 12.1304 5 L 8.13044 5 " />
+      <path
+         id="path6778"
+         d=" M 6.73044 5 L 4.13044 5 " />
+      <path
+         id="path6780"
+         d=" M 9.53044 -5 L 8.13044 -5 " />
+      <path
+         d="M4.13044,5 L4.13044,4.87464  L4.13044,4.50484  L4.13044,3.90916  L4.13044,3.11745  L4.13044,2.16942  L4.13044,1.1126  L4.13044,3.72528e-009  L4.13044,-1.1126  L4.13044,-2.16942  L4.13044,-3.11745  L4.13044,-3.90916  L4.13044,-4.50484  L4.13044,-4.87464  L4.13044,-5 "
+         id="path6782" />
+      <path
+         id="5"
+         d=" M 12.1304 5 L 9.53044 5 " />
+      <path
+         d="M9.53044,5 L9.52162,5  L9.49531,5  L9.45184,5  L9.39175,5  L9.3158,5  L9.22495,5  L9.12034,5  L9.00327,5  L8.87524,5  L8.73784,5  L8.5928,5  L8.44195,5  L8.28718,5  L8.13044,5 "
+         id="path6785" />
+      <path
+         d="M8.13044,5 L7.9737,5  L7.81893,5  L7.66808,5  L7.52304,5  L7.38564,5  L7.25761,5  L7.14055,5  L7.03593,5  L6.94508,5  L6.86913,5  L6.80905,5  L6.76557,5  L6.73926,5  L6.73044,5 "
+         id="path6787" />
+      <path
+         id="path6789"
+         d=" M 6.73044 5 L 4.13044 5 " />
+      <path
+         id="path6791"
+         d=" M 12.1304 -5 L 9.53044 -5 " />
+      <path
+         d="M9.53044,-5 L9.52162,-5  L9.49531,-5  L9.45184,-5  L9.39175,-5  L9.3158,-5  L9.22495,-5  L9.12034,-5  L9.00327,-5  L8.87524,-5  L8.73784,-5  L8.5928,-5  L8.44195,-5  L8.28718,-5  L8.13044,-5 "
+         id="path6793" />
+      <path
+         d="M8.13044,-5 L7.9737,-5  L7.81893,-5  L7.66808,-5  L7.52304,-5  L7.38564,-5  L7.25761,-5  L7.14055,-5  L7.03593,-5  L6.94508,-5  L6.86913,-5  L6.80905,-5  L6.76557,-5  L6.73926,-5  L6.73044,-5 "
+         id="path6795" />
+      <path
+         id="path6797"
+         d=" M 6.73044 -5 L 4.13044 -5 " />
+      <path
+         id="path6799"
+         d=" M 12.1304 -5 L 12.1304 5 " />
+      <path
+         id="path6801"
+         d=" M 4.13044 -5 L 4.13044 -3.82679 " />
+      <path
+         id="path6803"
+         d=" M 4.13044 -3.82679 L 4.13044 -2.17321 " />
+      <path
+         id="path6805"
+         d=" M 4.13044 -2.17321 L 4.13044 -1.82679 " />
+      <path
+         id="path6807"
+         d=" M 4.13044 -1.82679 L 4.13044 -0.173205 " />
+      <path
+         id="path6809"
+         d=" M 4.13044 -0.173205 L 4.13044 0.173205 " />
+      <path
+         id="path6811"
+         d=" M 4.13044 0.173205 L 4.13044 1.82679 " />
+      <path
+         id="path6813"
+         d=" M 4.13044 1.82679 L 4.13044 2.17321 " />
+      <path
+         id="path6815"
+         d=" M 4.13044 2.17321 L 4.13044 3.82679 " />
+      <path
+         id="22"
+         d=" M 4.13044 3.82679 L 4.13044 5 " />
+      <path
+         d="M4.13044,-1.5 L4.13044,-1.46239  L4.13044,-1.35145  L4.13044,-1.17275  L4.13044,-0.935235  L4.13044,-0.650826  L4.13044,-0.333781  L4.13044,3.72529e-009  L4.13044,0.333781  L4.13044,0.650826  L4.13044,0.935235  L4.13044,1.17275  L4.13044,1.35145  L4.13044,1.46239  L4.13044,1.5 "
+         id="path6818" />
+      <path
+         id="path6820"
+         d=" M 9.53044 5 L 9.53044 -5 " />
+      <path
+         id="path6822"
+         d=" M 6.73044 5 L 6.73044 -5 " />
+      <path
+         id="path6824"
+         d=" M 4.13044 3.82679 L 4.60779 3 " />
+      <path
+         id="path6826"
+         d=" M 4.60779 3 L 4.13044 2.17321 " />
+      <path
+         id="path6828"
+         d=" M 4.13044 1.82679 L 4.60779 1 " />
+      <path
+         id="path6830"
+         d=" M 4.60779 1 L 4.13044 0.173205 " />
+      <path
+         id="path6832"
+         d=" M 4.13044 -0.173205 L 4.60779 -1 " />
+      <path
+         id="path6834"
+         d=" M 4.60779 -1 L 4.13044 -1.82679 " />
+      <path
+         id="path6836"
+         d=" M 4.13044 -2.17321 L 4.60779 -3 " />
+      <path
+         id="path6838"
+         d=" M 4.60779 -3 L 4.13044 -3.82679 " />
+    </g>
+  </g>
+  <g
+     id="g6855">
+    <line
+       x1="334.000000"
+       y1="34.000000"
+       x2="352.521114"
+       y2="34.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6843" />
+    <line
+       x1="334.000000"
+       y1="122.000000"
+       x2="352.521114"
+       y2="122.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6845" />
+    <line
+       x1="351.521114"
+       y1="34.000000"
+       x2="351.521114"
+       y2="122.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6847" />
+    <polygon
+       points="351.521114,122.000000 352.521114,119.000000 351.521114,118.000000 350.521114,119.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6849" />
+    <polygon
+       points="351.521114,34.000000 350.521114,37.000000 351.521114,38.000000 352.521114,37.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6851" />
+    <text
+       x="349.521114"
+       y="78.000000"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(-90.000000 349.521114,78.000000)"
+       id="text6853">22</text>
+  </g>
+  <g
+     id="g6869">
+    <line
+       x1="300.000000"
+       y1="124.000000"
+       x2="300.000000"
+       y2="140.397044"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6857" />
+    <line
+       x1="332.000000"
+       y1="124.000000"
+       x2="332.000000"
+       y2="140.397044"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6859" />
+    <line
+       x1="300.000000"
+       y1="139.397044"
+       x2="332.000000"
+       y2="139.397044"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6861" />
+    <polygon
+       points="332.000000,139.397044 329.000000,138.397044 328.000000,139.397044 329.000000,140.397044"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6863" />
+    <polygon
+       points="300.000000,139.397044 303.000000,140.397044 304.000000,139.397044 303.000000,138.397044"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6865" />
+    <text
+       x="316.000000"
+       y="137.397044"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(0.000000 316.000000,137.397044)"
+       id="text6867">8</text>
+  </g>
+  <g
+     id="g6883">
+    <line
+       x1="112.000000"
+       y1="223.568840"
+       x2="112.000000"
+       y2="233.641648"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6871" />
+    <line
+       x1="120.000000"
+       y1="225.478240"
+       x2="120.000000"
+       y2="233.641648"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6873" />
+    <line
+       x1="112.000000"
+       y1="232.641648"
+       x2="120.000000"
+       y2="232.641648"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6875" />
+    <polygon
+       points="120.000000,232.641648 123.000000,233.641648 124.000000,232.641648 123.000000,231.641648"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6877" />
+    <polygon
+       points="112.000000,232.641648 109.000000,231.641648 108.000000,232.641648 109.000000,233.641648"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6879" />
+    <text
+       x="116.000000"
+       y="230.641648"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(0.000000 116.000000,230.641648)"
+       id="text6881">2</text>
+  </g>
+  <g
+     id="g6897">
+    <line
+       x1="122.000000"
+       y1="201.878240"
+       x2="130.104701"
+       y2="201.878240"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6885" />
+    <line
+       x1="122.000000"
+       y1="213.078240"
+       x2="130.104701"
+       y2="213.078240"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6887" />
+    <polygon
+       points="129.104701,213.078240 130.104701,210.078240 129.104701,209.078240 128.104701,210.078240"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6891" />
+    <polygon
+       points="129.104701,201.878240 128.104701,204.878240 129.104701,205.878240 130.104701,204.878240"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6893" />
+    <text
+       x="-193.05418"
+       y="127.55265"
+       font-size="3.6"
+       transform="rotate(-90)"
+       id="text6895"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">Ø2.8 H7</text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.1047,213.07824 0.17431,-29.05179"
+       id="path7049"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g6911">
+    <line
+       x1="114.000000"
+       y1="221.568840"
+       x2="130.506584"
+       y2="221.568840"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6899" />
+    <line
+       x1="114.469800"
+       y1="223.478240"
+       x2="130.506584"
+       y2="223.478240"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6901" />
+    <line
+       x1="129.506584"
+       y1="221.568840"
+       x2="129.506584"
+       y2="223.478240"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6903" />
+    <polygon
+       points="129.506584,223.478240 128.506584,226.478240 129.506584,227.478240 130.506584,226.478240"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6905" />
+    <polygon
+       points="129.506584,221.568840 130.506584,218.568840 129.506584,217.568840 128.506584,218.568840"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6907" />
+    <text
+       x="127.506584"
+       y="222.523540"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(-90.000000 127.506584,222.523540)"
+       id="text6909">0.5</text>
+  </g>
+  <g
+     transform="scale(4.000000,4.000000)"
+     stroke="rgb(0,0,255)"
+     stroke-width="0.080000"
+     id="g6917">
+    <path
+       d="M 20.000000,19.000000 L 20.750000,19.000000 M 21.250000,19.000000 L 22.750000,19.000000 M 23.250000,19.000000 L 24.000000,19.000000 M 24.500000,19.000000 L 26.000000,19.000000 M 26.500000,19.000000 L 27.250000,19.000000 M 27.750000,19.000000 L 29.250000,19.000000 M 29.750000,19.000000 L 30.500000,19.000000 M 31.000000,19.000000 L 32.500000,19.000000 "
+       id="path6913" />
+    <path
+       d="M 20.000000,19.000000 L 19.250000,19.000000 M 18.750000,19.000000 L 17.250000,19.000000 "
+       id="path6915" />
+  </g>
+  <g
+     id="g6929">
+    <circle
+       cx="100.000000"
+       cy="52.000000"
+       r="0.250000"
+       stroke="none"
+       fill="rgb(0,0,255)"
+       id="circle6919" />
+    <line
+       x1="81.391498"
+       y1="35.528035"
+       x2="100.000000"
+       y2="52.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6921" />
+    <polygon
+       points="85.024302,38.743738 86.607844,41.480962 88.019442,41.394991 87.933470,39.983393"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6923" />
+    <line
+       x1="81.391498"
+       y1="35.528035"
+       x2="75.147177"
+       y2="35.528035"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6925" />
+    <text
+       x="78.269337"
+       y="33.528035"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(0.000000 78.269337,33.528035)"
+       id="text6927">R5</text>
+  </g>
+  <g
+     id="g6943">
+    <circle
+       cx="100.000000"
+       cy="100.000000"
+       r="0.250000"
+       stroke="none"
+       fill="rgb(0,0,255)"
+       id="circle6931" />
+    <line
+       x1="108.306676"
+       y1="106.799426"
+       x2="95.357093"
+       y2="96.199551"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6933" />
+    <polygon
+       points="104.642907,103.800449 102.954862,101.126407 101.547636,101.266816 101.688045,102.674043"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6935" />
+    <polygon
+       points="95.357093,96.199551 97.045138,98.873593 98.452364,98.733184 98.311955,97.325957"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6937" />
+    <line
+       x1="108.30668"
+       y1="106.79942"
+       x2="117.84854"
+       y2="106.79942"
+       style="stroke:#0000ff;stroke-width:0.59780842"
+       id="line6939" />
+    <text
+       x="113.61515"
+       y="105.15778"
+       font-size="3.6"
+       id="text6941"
+       style="font-size:3.5999999px;font-family:inherit;text-anchor:middle;fill:#0000ff">Ø3 H7</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-73.13253"
+       y="151.90768"
+       id="text5401-7-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5399-5-2"
+         x="-73.13253"
+         y="151.90768"
+         style="font-size:2.11666656px;stroke-width:0.26458332">+0.1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-72.841034"
+       y="153.76547"
+       id="text5401-3-3-9"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5399-6-5-1"
+         x="-72.841034"
+         y="153.76547"
+         style="font-size:2.11666656px;stroke-width:0.26458332">- 0.1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.284374,207.05856 h -7.390406 l 3.91205,5.86109 6.158656,-10.39894 h 11.789456"
+       id="path6592-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="101.60143"
+       y="204.63379"
+       font-size="3.6"
+       id="text5067-2-6"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2">Ra3.2</tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.405934,102.00901 h -7.39041 l 3.91205,5.8611 6.15866,-10.398946 h 11.78946"
+       id="path6592-5-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+       x="68.325638"
+       y="97.810318"
+       font-size="3.6"
+       id="text5067-2-6-4"
+       transform="scale(1.0203674,0.98003915)">
+      <tspan
+         style="font-size:3.73790288px;stroke-width:0.75683069"
+         id="tspan6609-2-7">Ra3.2</tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.522603,108.33339 12.236782,-0.0109 28.31058,-6.80887"
+       id="path7108"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <polygon
+       transform="rotate(127.02566,93.389516,98.535911)"
+       points="97.045138,98.873593 98.452364,98.733184 98.311955,97.325957 95.357093,96.199551 "
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+       id="polygon6937-6"
+       inkscape:transform-center-x="-1.6167601"
+       inkscape:transform-center-y="2.2624368" />
+    <g
+       transform="translate(39.037895,-19.880517)"
+       id="g1968">
+      <line
+         x1="32.837864"
+         y1="77.524445"
+         x2="32.837864"
+         y2="95.805321"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1962" />
+      <polygon
+         points="33.837865,92.805317 32.837865,91.805317 31.837865,92.805317 32.837865,95.805317 "
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+         id="polygon1964" />
+      <line
+         x1="32.837864"
+         y1="77.524445"
+         x2="32.837864"
+         y2="77.524445"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1966" />
+    </g>
+    <text
+       style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000;stroke-width:0.99999994"
+       x="64.428001"
+       y="66.445831"
+       font-size="5"
+       id="text1974">A</text>
+    <g
+       transform="translate(-128.65186,-20.051785)"
+       id="g1960">
+      <line
+         x1="255.93222"
+         y1="79.555649"
+         x2="255.93222"
+         y2="96.143852"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1954" />
+      <polygon
+         points="256.93223,93.143852 255.93223,92.143852 254.93223,93.143852 255.93223,96.143852 "
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0"
+         id="polygon1956" />
+      <line
+         x1="255.93222"
+         y1="79.555649"
+         x2="255.93222"
+         y2="79.555649"
+         style="stroke:#0000ff;stroke-width:0.5"
+         id="line1958" />
+    </g>
+    <g
+       transform="translate(-128.65186,-20.051785)"
+       id="g1972">
+      <text
+         style="font-size:5px;font-family:inherit;text-anchor:inherit;fill:#000000"
+         x="259.99463"
+         y="89.034622"
+         font-size="5"
+         id="text1970">A</text>
+    </g>
+    <g
+       transform="translate(-42.473518,-0.08491911)"
+       id="g1980">
+      <text
+         x="112.48237"
+         y="254.16104"
+         font-size="15"
+         id="text1978"
+         style="font-size:15px;font-family:inherit;text-anchor:inherit;fill:#000000">
+        <tspan
+           style="font-size:11.28888893px"
+           id="tspan2356">Section A-A</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     id="g6957">
+    <line
+       x1="117.307160"
+       y1="60.000000"
+       x2="140.097639"
+       y2="60.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6945" />
+    <line
+       x1="117.307160"
+       y1="92.000000"
+       x2="140.097639"
+       y2="92.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6947" />
+    <line
+       x1="139.097639"
+       y1="60.000000"
+       x2="139.097639"
+       y2="92.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6949" />
+    <polygon
+       points="139.097639,92.000000 140.097639,89.000000 139.097639,88.000000 138.097639,89.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6951" />
+    <polygon
+       points="139.097639,60.000000 138.097639,63.000000 139.097639,64.000000 140.097639,63.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6953" />
+    <text
+       x="137.097639"
+       y="76.000000"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(-90.000000 137.097639,76.000000)"
+       id="text6955">8</text>
+  </g>
+  <g
+     id="g6971">
+    <line
+       x1="102.000000"
+       y1="52.000000"
+       x2="156.246746"
+       y2="52.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6959" />
+    <line
+       x1="102.000000"
+       y1="100.000000"
+       x2="156.246746"
+       y2="100.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6961" />
+    <line
+       x1="155.246746"
+       y1="52.000000"
+       x2="155.246746"
+       y2="100.000000"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6963" />
+    <polygon
+       points="155.246746,100.000000 156.246746,97.000000 155.246746,96.000000 154.246746,97.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6965" />
+    <polygon
+       points="155.246746,52.000000 154.246746,55.000000 155.246746,56.000000 156.246746,55.000000"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6967" />
+    <text
+       x="153.246746"
+       y="76.000000"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(-90.000000 153.246746,76.000000)"
+       id="text6969">12</text>
+  </g>
+  <g
+     id="g6985">
+    <line
+       x1="91.307160"
+       y1="221.478240"
+       x2="91.307160"
+       y2="218.048487"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6973" />
+    <line
+       x1="92.692840"
+       y1="221.478240"
+       x2="92.692840"
+       y2="218.048487"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6975" />
+    <line
+       x1="91.307160"
+       y1="219.048487"
+       x2="92.692840"
+       y2="219.048487"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6977" />
+    <polygon
+       points="92.692840,219.048487 95.692840,220.048487 96.692840,219.048487 95.692840,218.048487"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6979" />
+    <polygon
+       points="91.307160,219.048487 88.307160,218.048487 87.307160,219.048487 88.307160,220.048487"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6981" />
+    <text
+       x="92.000000"
+       y="217.048487"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(0.000000 92.000000,217.048487)"
+       id="text6983">0.5</text>
+  </g>
+  <g
+     id="g6999">
+    <line
+       x1="107.307160"
+       y1="221.478240"
+       x2="107.307160"
+       y2="218.057376"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6987" />
+    <line
+       x1="100.692820"
+       y1="221.478240"
+       x2="100.692820"
+       y2="218.057376"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6989" />
+    <line
+       x1="107.307160"
+       y1="219.057376"
+       x2="100.692820"
+       y2="219.057376"
+       style="stroke:rgb(0,0,255);stroke-width:0.50"
+       id="line6991" />
+    <polygon
+       points="100.692820,219.057376 97.692820,218.057376 96.692820,219.057376 97.692820,220.057376"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6993" />
+    <polygon
+       points="107.307160,219.057376 110.307160,220.057376 111.307160,219.057376 110.307160,218.057376"
+       style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0"
+       id="polygon6995" />
+    <text
+       x="103.999990"
+       y="217.057376"
+       font-family="inherit"
+       font-size="3.6"
+       fill="rgb(0,0,255)"
+       text-anchor="middle"
+       transform="rotate(0.000000 103.999990,217.057376)"
+       id="text6997">1.5</text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.15643032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 373.62818,216.96381 h -7.39041 l 3.91205,5.86109 6.15866,-10.39894 h 11.78946"
+     id="path6592"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.20781881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 390.88238,218.05984 c 1.43175,1.4246 4.29527,5.34226 4.29527,5.34226 l 6.20429,-12.46528"
+     id="path6626"
+     inkscape:connector-curvature="0" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.54219013;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:13.01256251, 13.01256251;stroke-dashoffset:0;stroke-opacity:1"
+     id="path6652"
+     cx="128.29718"
+     cy="438.94131"
+     rx="8.2369528"
+     ry="8.1775112"
+     transform="matrix(0.68146298,-0.73185259,0.7047956,0.70941043,0,0)" />
+  <text
+     style="font-size:2.72459078px;font-family:inherit;text-anchor:middle;fill:#0000ff;stroke-width:0.75683069"
+     x="373.40079"
+     y="215.04625"
+     font-size="3.6"
+     id="text5067-2"
+     transform="scale(1.0203674,0.98003915)">
+    <tspan
+       style="font-size:3.73790288px;stroke-width:0.75683069"
+       id="tspan6609">Ra16</tspan>
+  </text>
+  <text
+     style="font-size:5px;font-family:osifont;text-anchor:middle;fill:#000000;stroke-width:0.99999994"
+     freecad:editable="FreeCAD DRAWING"
+     x="291.29956"
+     y="264.87259"
+     id="text6662-0">
+    <tspan
+       style="stroke-width:0.99999994"
+       id="tspan6660-6">Also provides belt tensioning with the</tspan>
+  </text>
+  <text
+     style="font-size:5px;font-family:osifont;text-anchor:middle;fill:#000000;stroke-width:0.99999994"
+     freecad:editable="FreeCAD DRAWING"
+     x="292.0163"
+     y="271.32309"
+     id="text6662-1">
+    <tspan
+       style="stroke-width:0.99999994"
+       id="tspan6660-5">peripheral.</tspan>
+  </text>
+  <g
+     style="stroke:#0000ff;stroke-width:0.08"
+     transform="matrix(3.0952833,0,0,3.9999999,239.33437,1.9084397)"
+     id="g6917-3">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h 0.75 m 0.5,0 h 1.5 m 0.5,0 H 24 m 0.5,0 H 26 m 0.5,0 h 0.75 m 0.5,0 h 1.5 m 0.5,0 h 0.75 m 0.5,0 h 1.5"
+       id="path6913-6" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h -0.75 m -0.5,0 h -1.5"
+       id="path6915-7" />
+  </g>
+  <g
+     style="stroke:#0000ff;stroke-width:0.08"
+     transform="matrix(0.00609447,6.4135097,-4.0000804,-0.02293612,391.9044,-81.141603)"
+     id="g6917-5">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h 0.75 m 0.5,0 h 1.5 m 0.5,0 H 24 m 0.5,0 H 26 m 0.5,0 h 0.75 m 0.5,0 h 1.5 m 0.5,0 h 0.75 m 0.5,0 h 1.5"
+       id="path6913-3" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 20,19 h -0.75 m -0.5,0 h -1.5"
+       id="path6915-5" />
+  </g>
+</svg>
