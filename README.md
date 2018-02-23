@@ -1,3 +1,6 @@
+****** PROJECT OUTDATE, CONTINUED IN CNC_UTM *******
+
+
 This is where we will construct our own 3D Printer.
 
 We can keep eachother updated in this readme file. 
